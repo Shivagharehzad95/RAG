@@ -1,4 +1,4 @@
-[![logo.png](images/logo.png)](https://hpi.de/en/kisz/home.html)
+[![logo.png](images/logo.png)](https://hpi.de/en/research/hpi-data-center/ai-service-center/)
 
 # 
 
@@ -51,7 +51,7 @@ Or follow the installation instructions for your operating system: [Install Olla
 Choose and download an LLM model. For example:
 
 ```shell
-$ ollama pull phi3
+$ ollama pull llama3.2
 ```
 ---
 
@@ -113,4 +113,4 @@ $ python3 -m pip install black
 
 ## License
 
-[GPLv3](./LICENCE)
+[GPLv3](./LICENSE)
